@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I am a first-year PhD student at Westlake University, Hangzhou, China. My research interest includes biochemistry, protein structure, and mechine learning.
+
+[Email](zili.z@foxmail.com) / [Github](https://github.com/Zili173) / [Wechat](../images/wechat.jpg)
