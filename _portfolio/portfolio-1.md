@@ -1,6 +1,6 @@
 ---
 title: "Lakeside Coffee"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Lakeside_Coffee.jpg'>"
+excerpt: "北山街星巴克<br/><img src='/images/Lakeside_Coffee.jpg'>"
 collection: portfolio
 ---
 
