@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Jounal Club"
+    url: /jc/
     
   - title: "Guide"
     url: /markdown/
